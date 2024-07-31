@@ -1,0 +1,11 @@
+{
+  "name": "quizaiproj",
+  "version": "1.0.0",
+  "description": "All Config in this project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rhim Angelo Sagales",
+  "license": "ISC"
+}
